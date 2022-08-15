@@ -1,0 +1,33 @@
+.container .footer {
+color:black;
+}
+footer ul li {
+    list-style-type: none;
+    color:black;
+}
+.contact{
+    font-size: 13px;
+    font :HelveticaNeueLT-Roman;
+    
+}
+.footer .nav-link{
+    display: inline;
+}
+.contact a{
+    color: black !important;
+}
+.contact a:hover{
+color: grey !important;
+}
+.form-label{
+    font-size: 14px;
+}
+.contactdata{
+    text-align:right;
+    margin-right: 60px;
+    font-size: 17px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+pre h6{
+    font-weight: bold;
+}
